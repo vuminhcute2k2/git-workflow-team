@@ -27,6 +27,6 @@ class User{
     "fullname" : fullname,
     "password" : password,
     "followers" : followers,
-    "following" : following,
+    
   };
 }
